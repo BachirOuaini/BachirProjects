@@ -1,0 +1,150 @@
+html{
+    background-color: rgb(208, 234, 243);
+}
+label{
+    font-size: 15px;
+}
+div.body{
+    background-color:white;
+    margin : 10% 10%;
+    outline: 10px black;
+    position: relative;
+    left: 15;
+    border-radius: 10px;
+}
+div.FName{
+    display: block;
+}
+div.FName input{
+    display: block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+    padding-right: 23%;
+}
+div.FName label{
+    position: relative;
+    display: block;
+    left: 5%;
+    
+}
+div.LName{
+    display: block;
+}
+div.LName input{
+    display: block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+    padding-right: 23%;
+}
+div.LName label{
+    position: relative;
+    display: inline-block;
+    left : 5%;
+}
+div.Email input{
+    display: inline-block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+    padding-right: 23%;
+}
+div.Email{
+    display: block;
+}
+div.Email label{
+    position: relative;
+    display: block;
+    left : 5%;
+}
+div.options div{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5% 5%;
+    border-radius: 9px;
+    outline: 2px solid black;
+    position: relative;
+}
+.submit{
+    display: block;
+    margin: 5% 5%;
+}
+div.options p{
+    position: relative;
+    left : 5%;
+}
+label.labe{
+    display: block;
+    position: relative;
+    left: 5%;
+}
+h1{
+    display: block;
+    position: relative;
+    left: 5%;
+    top: 5%;
+}
+div.button {
+    border:1px solid black;
+    padding: 10px;
+}
+div.button p {
+    text-align: center;
+    border: 1px dashed red;
+    margin: 0 1em;
+    padding: 5px;
+    font-size: 24px;
+}
+input.text{
+    position: relative;
+    display: block;
+    left : 5%;
+    padding: 20%;
+
+}
+textarea{
+    position: relative;
+    display: block;
+    left : 5%;
+    width: 100%;
+    padding: 10%;
+}
+div.Message.input.formControl{
+    position: relative;
+    display: block;
+    left : 5%;
+    padding: 20%;
+}
+button {
+    padding: 10px 20px;
+    outline: none;
+    display: block;
+    background-color: white;
+    color: black;
+    margin: 20px auto;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+button:active {
+    background-color: #3e8e41;
+    transform: scale(1);
+}
+textarea{
+    position: relative;
+    display: block;
+    left : 5%;
+    width: 70%;
+    padding: 10%;
+}

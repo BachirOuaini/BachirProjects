@@ -1,0 +1,109 @@
+html{
+    background-color: rgb(208, 234, 243);
+}
+label{
+    font-size: 15px;
+}
+div.body{
+    background-color:white;
+    margin : 10% 10%;
+    outline: 10px black;
+    position: relative;
+    left: 15;
+    border-radius: 10px;
+}
+div.names1{
+    display: block;
+}
+div.names1 input{
+    display: block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+    padding-right: 23%;
+}
+div.names1 label{
+    position: relative;
+    display: block;
+    left: 5%;
+    
+}
+div.names2{
+    display: block;
+}
+div.names2 input{
+    display: block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+    padding-right: 23%;
+}
+div.names2 label{
+    position: relative;
+    display: inline-block;
+    left : 5%;
+}
+div.mail input{
+    display: inline-block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+    padding-right: 23%;
+}
+div.mail{
+    display: block;
+}
+div.mail label{
+    position: relative;
+    display: block;
+    left : 5%;
+}
+div.options div{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5% 5%;
+    border-radius: 9px;
+    outline: 2px solid black;
+    position: relative;
+}
+.submit{
+    display: block;
+    margin: 5% 5%;
+}
+div.options p{
+    position: relative;
+    left : 5%;
+}
+label.labe{
+    display: block;
+    position: relative;
+    left: 5%;
+}
+input.Message{
+    display: block;
+    left: 5%;
+}
+h1{
+    display: block;
+    position: relative;
+    left: 5%;
+    top: 15%;
+}
+div.button {
+    border:1px solid black;
+    padding: 10px;
+}
+div.button p {
+    text-align: center;
+    border: 1px dashed red;
+    margin: 0 1em;
+    padding: 5px;
+    font-size: 24px;
+}
+textarea{
+    position: relative;
+    display: block;
+    left : 5%;
+    width: 100%;
+    padding: 10%;
+}
