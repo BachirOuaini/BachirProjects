@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BachirProjects/static/css/main.6d2a39ab.css",
+    "main.js": "/BachirProjects/static/js/main.5d045df7.js",
+    "static/js/453.cb3cc533.chunk.js": "/BachirProjects/static/js/453.cb3cc533.chunk.js",
+    "index.html": "/BachirProjects/index.html",
+    "main.6d2a39ab.css.map": "/BachirProjects/static/css/main.6d2a39ab.css.map",
+    "main.5d045df7.js.map": "/BachirProjects/static/js/main.5d045df7.js.map",
+    "453.cb3cc533.chunk.js.map": "/BachirProjects/static/js/453.cb3cc533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2a39ab.css",
+    "static/js/main.5d045df7.js"
+  ]
+}
